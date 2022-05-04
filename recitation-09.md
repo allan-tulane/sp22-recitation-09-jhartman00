@@ -1,4 +1,6 @@
 # CMPS 2200  Recitation 09
+name: Jamie Hartman  
+name: Charles Tyndal
 
 Here are the slides we would use. Just for your reference.
 
